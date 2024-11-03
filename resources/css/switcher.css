@@ -1,0 +1,15 @@
+.\!max-w-\[10rem\] {
+    max-width: 10rem!important
+}
+.\!max-w-\[12rem\] {
+    max-width: 12rem!important
+}
+.\!max-w-\[3rem\] {
+    max-width: 3rem!important
+}
+.\!max-w-\[2rem\] {
+    max-width: 2rem!important
+}
+.fi-modal-content{
+    min-height: calc(30vh - 4rem);
+}
