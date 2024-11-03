@@ -334,8 +334,11 @@ php artisan vendor:publish --tag=filament-translatable-translations
 ```
 
 ## Screenshots
-
+### Application language switcher
 ![Language switcher](https://raw.githubusercontent.com/huuhadev/filament-translatable/master/art/ap-language-switcher.png)
+### Content language switcher
 ![Content language switcher](https://raw.githubusercontent.com/huuhadev/filament-translatable/master/art/content-language-selector.png)
+### Translator field 
 ![Translator](https://raw.githubusercontent.com/huuhadev/filament-translatable/master/art/auto-translator.png)
+### Google translate
 ![Google Translator](https://raw.githubusercontent.com/huuhadev/filament-translatable/master/art/google-translator.png)
