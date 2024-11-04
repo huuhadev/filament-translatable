@@ -1,5 +1,5 @@
 # Filament Translatable Plugin
-
+![Filament Translatable](https://raw.githubusercontent.com/huuhadev/filament-translatable/master/art/filament-translatable.jpg)
 ## Installation
 
 Install the plugin with Composer:
